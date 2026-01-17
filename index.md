@@ -10,7 +10,7 @@ I am passionate about building secure and trustworthy AI systems. Currently, I a
 
 ## 🎓 Education
 - **Nanjing University (NJU)**  
-  *Bachelor of Engineering in Software Engineering* | 2023 - 2027 
+  *Undergrad Student of Engineering in Software Engineering* | 2023 - 2027 
 
 ## 🔍 Research Interests
 My research interests lie in **Machine Learning Security**, specifically:
